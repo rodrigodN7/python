@@ -26,6 +26,7 @@ for counter in range(10):
 #augmented assignments
 for number in [1,2,3,4,5]:
     total += number #is the same as total = total + number
+print(total)
 
 #list of the augmented assignments
 
