@@ -1,7 +1,7 @@
 #
 #By Rodrigo Noriega
 #
-#Methods: functions that belongs to objects
+#Shadowing
 #
 #
 #
