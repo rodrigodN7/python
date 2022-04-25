@@ -8,9 +8,6 @@
 
 #list method index
 
-from re import search
-
-
 numbers = [3, 7, 1, 4, 2, 8, 5, 6]
 print(numbers)
 print(numbers.index(5))
