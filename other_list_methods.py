@@ -6,9 +6,6 @@
 #
 #
 
-from urllib import response
-
-
 color_names = ['orange', 'yellow', 'green']
 print(color_names)
 color_names.insert(0, 'red')
@@ -62,4 +59,4 @@ print(color_names)
 copied_list = color_names.copy()
 print(copied_list)
 
-#this is equivalent to the previously demonstrated slice operation.
+#this is equivalent to the previously demonstrated slice
