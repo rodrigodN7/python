@@ -18,3 +18,6 @@ for value in (x ** 2 for x in numbers if x % 2 != 0):
 #snippet’s generator expression to a variable and evaluate the variable:
 squares_of_odds = (x ** 2 for x in numbers if x % 2 != 0)
 print('\n', squares_of_odds)
+
+#The text "generator object <genexpr>" indicates that square_of_odds is a
+#generator object that was created from a generator expression (genexpr).
