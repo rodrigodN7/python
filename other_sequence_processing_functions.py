@@ -36,3 +36,4 @@ grade_point_average = [3.5, 4.0, 3.75]
 
 for name, gpa in zip(names, grade_point_average):
     print(f'Name={name}; GPA={gpa}')
+
