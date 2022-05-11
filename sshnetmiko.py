@@ -19,7 +19,7 @@ f = open("log_2800.txt","w")
 device = ConnectHandler(device_type='cisco_ios', ip='172.27.1.18', username='admin', password='sshadmin')
 
 v = 'show ip interface brief'
-w = '17@05cy.!.7'
+w = 'p4ssw0rd'
 x = 'show running-config'
 
 #Send Command
